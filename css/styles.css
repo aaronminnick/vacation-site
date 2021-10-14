@@ -1,0 +1,22 @@
+.col-4 {
+  border: 2px solid green;
+}
+
+.col-4 footer {
+  position: absolute;
+  bottom: 2px;
+}
+
+.list-above-price {
+  margin-bottom: 100px;
+}
+
+.price {
+  font-style: italic;
+  color: darkgreen;
+  background: lightgrey;
+}
+
+.bg-info {
+  font-size: 60%;
+}
